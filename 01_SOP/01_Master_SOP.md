@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Owner:** Founder/Instructor  
-**Objective:** To flawlessly execute the 8-week bootcamp, manage student communications, and ensure 30% of graduates get gigs.
+**Objective:** To flawlessly execute the 8-week bootcamp, manage student communications, and ensure 30% of graduates get gigs..
 
 ---
 
