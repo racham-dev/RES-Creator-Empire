@@ -16,9 +16,9 @@ RES_Empire trains business owners, artisans, freelancers, and university fresher
 
 | Day | Activity | Time (WAT) | Platform |
 | :--- | :--- | :--- | :--- |
-| **Saturday** | Live Training Class | 10:00 AM – 12:00 PM | Vidline Studio (Online) |
+| **Saturday** | Live Training Class | 10:00 AM – 11:30 AM | Vidline Studio (Online) |
 | **Sunday** | Review & Feedback Session | 4:00 PM – 5:00 PM | WhatsApp Group |
-| **Weekly** | Homework Submission Deadline | Friday, 11:59 PM | WhatsApp Group |
+| **Weekly** | Homework Submission Deadline | Friday, 11:59 AM | WhatsApp Group |
 
 **Mode of Delivery:** 100% Online.  
 All live classes are recorded and uploaded to our private Telegram channel and YouTube for catch-up.
