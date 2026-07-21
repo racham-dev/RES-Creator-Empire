@@ -9,7 +9,6 @@
 
 ## Part 1: The Warm-Up & Hook (5 Minutes)
 
-*(You are in Vidline. Recording is ON.)*
 
 **Script:**
 
@@ -27,8 +26,6 @@
 ---
 
 ## Part 2: AI Models – The Brain (15 Minutes)
-
-*(Screen share a simple slide or diagram.)*
 
 **Script:**
 
@@ -66,7 +63,6 @@
 
 ## Part 3: AI Agents – The Assistant (15 Minutes)
 
-*(Screen share a demonstration of an AI Agent setup, e.g., ChatGPT Tasks or a Make.com automation.)*
 
 **Script:**
 
@@ -100,7 +96,6 @@
 
 ## Part 4: AI Gems – The Custom Expert (10 Minutes)
 
-*(Screen share Google Gemini’s "Gems" interface or a custom GPT builder.)*
 
 **Script:**
 
@@ -123,7 +118,6 @@
 
 ## Part 5: Live Challenge – Build Your First Gem (5 Minutes)
 
-*(Stop screen sharing. Keep your camera on.)*
 
 **Script:**
 
@@ -143,8 +137,6 @@
 ---
 
 ## Part 6: The "Cheat Sheet" Summary (For Their Notes)
-
-**Copy and paste this into the WhatsApp group as a pinned message:**
 
 ```text
 📌 AI CHEAT SHEET – MODELS, AGENTS & GEMS
