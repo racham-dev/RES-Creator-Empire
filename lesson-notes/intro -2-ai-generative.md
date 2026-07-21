@@ -1,14 +1,16 @@
-Week 0: Introduction to AI Generative Creation
+# Week 0: Introduction to AI Generative Creation
+----
 Date: Pre-Bootcamp / Orientation Week
 Time: 45–60 Minutes
 Platform: Vidline Studio (Recording ON)
 Objective: Students will understand what Generative AI is, how it works, the opportunities it creates for Nigerians, and the roadmap for the next 8 weeks.
+----
 
-Part 1: The Warm-Up & Hook (5 Minutes)
+# Part 1: The Warm-Up & Hook (5 Minutes)
 (You are in Vidline. Recording is ON. Students are entering.)
 
 Script:
-
+'''
 "Good morning, Creators! Welcome to the very first session of RES_Empire.
 
 I want you to forget everything you think you know about computers. Today, we are not typing data. We are not calculating numbers. We are creating.
