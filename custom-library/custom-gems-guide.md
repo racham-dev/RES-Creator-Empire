@@ -1,6 +1,6 @@
 # The "RES_Empire" Custom Gem Library
 
-# When you opens a Custom Gem, you don’t have to type: "Act as a teacher and write a lesson plan..." just click the Gem, and it already knows exactly who you are and what you need.
+ When you opens a Custom Gem, you don’t have to type: "Act as a teacher and write a lesson plan..." just click the Gem, and it already knows exactly who you are and what you need.
 
 # Here are 7 high-value, solutions-driven Custom Gems tailored for your specific audience. You can copy these instructions into Google Gems, ChatGPT Custom GPTs, or Claude Projects.
 
